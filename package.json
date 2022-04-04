@@ -4,8 +4,8 @@
   "description": "A node.js web app with no purpose",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "server": "node index.js --detectOpenHandles"
+    "test": "jest --detectOpenHandles",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
