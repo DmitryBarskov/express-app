@@ -1,0 +1,24 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "A node.js web app with no purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryBarskov/express-app.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript"
+  ],
+  "author": "Dmitry Barskov <dmitry.barskov@flatstack.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitryBarskov/express-app/issues"
+  },
+  "homepage": "https://github.com/DmitryBarskov/express-app#readme"
+}
